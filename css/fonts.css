@@ -1,0 +1,90 @@
+@font-face {
+  font-family: "BPG Mrgvlovani Caps 2010";
+  src: url("../fonts/BPGMrgvlovaniCaps2010.eot");
+  src: url("../fonts/BPGMrgvlovaniCaps2010.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/BPGMrgvlovaniCaps2010.woff2") format("woff2"),
+    url("../fonts/BPGMrgvlovaniCaps2010.woff") format("woff"),
+    url("../fonts/BPGMrgvlovaniCaps2010.ttf") format("truetype"),
+    url("../fonts/BPGMrgvlovaniCaps2010.svg#BPGMrgvlovaniCaps2010")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GL Tatishvili Metal";
+  src: url("../fonts/GLTatishviliMetal-Bold.eot");
+  src: url("../fonts/GLTatishviliMetal-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/GLTatishviliMetal-Bold.woff2") format("woff2"),
+    url("../fonts/GLTatishviliMetal-Bold.woff") format("woff"),
+    url("../fonts/GLTatishviliMetal-Bold.ttf") format("truetype"),
+    url("../fonts/GLTatishviliMetal-Bold.svg#GLTatishviliMetal-Bold")
+      format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FiraGO";
+  src: url("../fonts/FiraGO-Regular.eot");
+  src: url("../fonts/FiraGO-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/FiraGO-Regular.woff2") format("woff2"),
+    url("../fonts/FiraGO-Regular.woff") format("woff"),
+    url("../fonts/FiraGO-Regular.ttf") format("truetype"),
+    url("../fonts/FiraGO-Regular.svg#FiraGO-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "BPG Mrgvlovani";
+  src: url("../fonts/BPGMrgvlovani.eot");
+  src: url("../fonts/BPGMrgvlovani.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BPGMrgvlovani.woff2") format("woff2"),
+    url("../fonts/BPGMrgvlovani.woff") format("woff"),
+    url("../fonts/BPGMrgvlovani.ttf") format("truetype"),
+    url("../fonts/BPGMrgvlovani.svg#BPGMrgvlovani") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Segoe UI";
+  src: url("../fonts/SegoeUI.eot");
+  src: url("../fonts/SegoeUI.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/SegoeUI.woff2") format("woff2"),
+    url("SegoeUI.woff") format("woff"),
+    url("../fonts/SegoeUI.ttf") format("truetype"),
+    url("../fonts/SegoeUI.svg#SegoeUI") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Righteous";
+  src: url("../fonts/Righteous-Regular.eot");
+  src: url("../fonts/Righteous-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Righteous-Regular.woff2") format("woff2"),
+    url("../fonts/Righteous-Regular.woff") format("woff"),
+    url("../fonts/Righteous-Regular.ttf") format("truetype"),
+    url("../fonts/Righteous-Regular.svg#Righteous-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Century Gothic";
+  src: url("../fonts/CenturyGothic.eot");
+  src: url("../fonts/CenturyGothic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/CenturyGothic.woff2") format("woff2"),
+    url("../fonts/CenturyGothic.woff") format("woff"),
+    url("../fonts/CenturyGothic.ttf") format("truetype"),
+    url("../fonts/CenturyGothic.svg#CenturyGothic") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
